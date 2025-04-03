@@ -86,7 +86,7 @@ jobs:
 
     permissions: 
       contents: write
-      pages: writes
+      pages: write
       id-token: write
 
     environment:
